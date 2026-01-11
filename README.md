@@ -10,7 +10,7 @@ Each skill is self-contained in its own folder with a `SKILL.md` file containing
 
 ## Repository Structure
 
-```
+```text
 ai-skills/
 ├── skills/          # Your custom skills (each skill in its own subfolder)
 ├── spec/            # Agent Skills specification reference
@@ -40,7 +40,7 @@ license: Apache-2.0
 compatibility: Requires git and docker
 metadata:
   author: your-name
-  version: "1.0"
+  version: '1.0'
 allowed-tools: Bash(git:*) Read
 ---
 ```
@@ -86,7 +86,7 @@ Run the extraction script: `scripts/extract.py`
 
 ### Example Skill Structure
 
-```
+```text
 skills/
 └── my-skill/
     ├── SKILL.md
