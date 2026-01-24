@@ -6,11 +6,11 @@ source: https://x.com/rubenhassid/status/2007467026365985168
 
 # The "Divergent/Convergent" Strategy
 
-### STEP ONE: DIVERGENT
+## STEP ONE: DIVERGENT
 
 Brainstorm 10 wildly different ideas about [topic]. Ignore all requirements. Push for unusual, surprising concepts.
 
-### STEP TWO: CONVERGENT
+## STEP TWO: CONVERGENT
 
 Select idea [X] and develop it to meet these constraints: [requirements].
 
